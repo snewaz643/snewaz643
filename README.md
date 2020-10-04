@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Hey there, I'm Newaz Saif. I'm a software developer, a data scientist researcher and enthusiast.](https://github.com/snewaz643/snewaz643/bio-snewaz643.gif)
 
 <!--
