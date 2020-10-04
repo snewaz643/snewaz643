@@ -1,4 +1,4 @@
-![Hey there, I'm Newaz Saif. I'm a software developer, a data scientist researcher and enthusiast.](https://github.com/snewaz643/snewaz643/bio-snewaz643.gif)
+![Hey there, I'm Newaz Saif. I'm a software developer, a data scientist researcher and enthusiast.](https://github.com/snewaz643/snewaz643/blob/main/bio-snewaz643.gif)
 
 <!--
 **snewaz643/snewaz643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
